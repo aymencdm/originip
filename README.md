@@ -19,7 +19,7 @@ A powerful reconnaissance tool for bug bounty hunters and penetration testers to
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/originip.git
+git clone https://github.com/aymencdm/originip.git
 cd originip
 ```
 
@@ -140,7 +140,7 @@ If you find this tool useful, consider:
 
 ## Credits
 
-Created by [Your Name] for the bug bounty and security research community.
+Created by [aymen benlamari] for the bug bounty and security research community.
 
 ---
 
