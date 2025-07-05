@@ -140,7 +140,7 @@ If you find this tool useful, consider:
 
 ## Credits
 
-Created by [aymen benlamari] for the bug bounty and security research community.
+Created by aymen benlamari for the bug bounty and security research community.
 
 ---
 
